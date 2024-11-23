@@ -1,0 +1,11 @@
+ID,Peso (g),Tamanho (cm),Acabamento,Resultado,Motivo
+1,80,16,8,Aprovada,
+2,99,19,10,Aprovada,
+3,80,12,9,Aprovada,
+4,5,11,6,Rejeitada,"Peso fora dos limites, Acabamento insuficiente"
+5,93,19,9,Aprovada,
+6,87,18,8,Aprovada,
+7,79,19,8,Aprovada,
+8,80,15,9,Aprovada,
+9,75,12,8,Aprovada,
+10,71,11,9,Aprovada,
